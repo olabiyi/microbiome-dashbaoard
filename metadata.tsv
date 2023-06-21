@@ -1,0 +1,88 @@
+#SampleID	BarcodeSequence	LinkerPrimerSequence	InputFileName	TreatmentName	Replicate	Application	SampleType	Description
+S01	x	x	S01	E3T1.Compost.TP1.R1	1	Compost	Soil	Shweta_Saline
+S02	x	x	S02	E3T1.Compost.TP1.R2	2	Compost	Soil	Shweta_Saline
+S03	x	x	S03	E3T1.Compost.TP1.R3	3	Compost	Soil	Shweta_Saline
+S04	x	x	S04	E3T2.SL.TP1.R1	1	SL	Soil	Shweta_Saline
+S05	x	x	S05	E3T2.SL.TP1.R2	2	SL	Soil	Shweta_Saline
+S06	x	x	S06	E3T2.SL.TP1.R3	3	SL	Soil	Shweta_Saline
+S07	x	x	S07	E3T3.SA.TP1.R1	1	SA	Soil	Shweta_Saline
+S08	x	x	S08	E3T3.SA.TP1.R2	2	SA	Soil	Shweta_Saline
+S09	x	x	S09	E3T3.SA.TP1.R3	3	SA	Soil	Shweta_Saline
+S10	x	x	S10	E3T4. SLSA.TP1.R1	1	SLSA	Soil	Shweta_Saline
+S11	x	x	S11	E3T4. SLSA.TP1.R2	2	SLSA	Soil	Shweta_Saline
+S12	x	x	S12	E3T4. SLSA.TP1.R3	3	SLSA	Soil	Shweta_Saline
+S13	x	x	S13	E3T5.COU.TP1.R1	1	Coumarin	Soil	Shweta_Saline
+S14	x	x	S14	E3T5.COU.TP1.R2	2	Coumarin	Soil	Shweta_Saline
+S15	x	x	S15	E3T5.COU.TP1.R3	3	Coumarin	Soil	Shweta_Saline
+S16	x	x	S16	E3T7.GYP.TP1.R1	1	Gypsum	Soil	Shweta_Saline
+S17	x	x	S17	E3T7.GYP.TP1.R2	2	Gypsum	Soil	Shweta_Saline
+S18	x	x	S18	E3T7.GYP.TP1.R3	3	Gypsum	Soil	Shweta_Saline
+S19	x	x	S19	E3T9.CN.TP1.R1	1	Control	Soil	Shweta_Saline
+S20	x	x	S20	E3T9.CN.TP1.R2	2	Control	Soil	Shweta_Saline
+S21	x	x	S21	E3T9.CN.TP1.R3	3	Control	Soil	Shweta_Saline
+S22	x	x	S22	E3T1.Compost.TP1.R1	1	Compost	Root	Shweta_Saline
+S23	x	x	S23	E3T1.Compost.TP1.R2	2	Compost	Root	Shweta_Saline
+S24	x	x	S24	E3T1.Compost.TP1.R3	3	Compost	Root	Shweta_Saline
+S25	x	x	S25	E3T2.SL.TP1.R1	1	SL	Root	Shweta_Saline
+S26	x	x	S26	E3T2.SL.TP1.R2	2	SL	Root	Shweta_Saline
+S27	x	x	S27	E3T2.SL.TP1.R3	3	SL	Root	Shweta_Saline
+S28	x	x	S28	E3T3.SA.TP1.R1	1	SA	Root	Shweta_Saline
+S29	x	x	S29	E3T3.SA.TP1.R2	2	SA	Root	Shweta_Saline
+S30	x	x	S30	E3T3.SA.TP1.R3	3	SA	Root	Shweta_Saline
+S31	x	x	S31	E3T4. SLSA.TP1.R1	1	SLSA	Root	Shweta_Saline
+S32	x	x	S32	E3T4. SLSA.TP1.R2	2	SLSA	Root	Shweta_Saline
+S33	x	x	S33	E3T4. SLSA.TP1.R3	3	SLSA	Root	Shweta_Saline
+S34	x	x	S34	E3T5.COU.TP1.R1	1	Coumarin	Root	Shweta_Saline
+S35	x	x	S35	E3T5.COU.TP1.R2	2	Coumarin	Root	Shweta_Saline
+S36	x	x	S36	E3T5.COU.TP1.R3	3	Coumarin	Root	Shweta_Saline
+S37	x	x	S37	E3T7.GYP.TP1.R1	1	Gypsum	Root	Shweta_Saline
+S38	x	x	S38	E3T7.GYP.TP1.R2	2	Gypsum	Root	Shweta_Saline
+S39	x	x	S39	E3T7.GYP.TP1.R3	3	Gypsum	Root	Shweta_Saline
+S40	x	x	S40	E3T9.CN.TP1.R1	1	Control	Root	Shweta_Saline
+S41	x	x	S41	E3T9.CN.TP1.R2	2	Control	Root	Shweta_Saline
+S42	x	x	S42	E3T9.CN.TP1.R3	3	Control	Root	Shweta_Saline
+S43	x	x	S43	E3T1.Compost.TP1.R1	1	Compost	Leaf	Shweta_Saline
+S44	x	x	S44	E3T1.Compost.TP1.R2	2	Compost	Leaf	Shweta_Saline
+S45	x	x	S45	E3T1.Compost.TP1.R3	3	Compost	Leaf	Shweta_Saline
+S46	x	x	S46	E3T2.SL.TP1.R1	1	SL	Leaf	Shweta_Saline
+S47	x	x	S47	E3T2.SL.TP1.R2	2	SL	Leaf	Shweta_Saline
+S48	x	x	S48	E3T2.SL.TP1.R3	3	SL	Leaf	Shweta_Saline
+S49	x	x	S49	E3T3.SA.TP1.R1	1	SA	Leaf	Shweta_Saline
+S50	x	x	S50	E3T3.SA.TP1.R2	2	SA	Leaf	Shweta_Saline
+S51	x	x	S51	E3T3.SA.TP1.R3	3	SA	Leaf	Shweta_Saline
+S52	x	x	S52	E3T4. SLSA.TP1.R1	1	SLSA	Leaf	Shweta_Saline
+S53	x	x	S53	E3T4. SLSA.TP1.R2	2	SLSA	Leaf	Shweta_Saline
+S54	x	x	S54	E3T4. SLSA.TP1.R3	3	SLSA	Leaf	Shweta_Saline
+S55	x	x	S55	E3T5.COU.TP1.R1	1	Coumarin	Leaf	Shweta_Saline
+S56	x	x	S56	E3T5.COU.TP1.R2	2	Coumarin	Leaf	Shweta_Saline
+S57	x	x	S57	E3T5.COU.TP1.R3	3	Coumarin	Leaf	Shweta_Saline
+S58	x	x	S58	E3T7.GYP.TP1.R1	1	Gypsum	Leaf	Shweta_Saline
+S59	x	x	S59	E3T7.GYP.TP1.R2	2	Gypsum	Leaf	Shweta_Saline
+S60	x	x	S60	E3T7.GYP.TP1.R3	3	Gypsum	Leaf	Shweta_Saline
+S61	x	x	S61	E3T9.CN.TP1.R1	1	Control	Leaf	Shweta_Saline
+S62	x	x	S62	E3T9.CN.TP1.R2	2	Control	Leaf	Shweta_Saline
+S63	x	x	S63	E3T9.CN.TP1.R3	3	Control	Leaf	Shweta_Saline
+S64	x	x	S64	E3T1.Compost.TP1.R1	1	Compost	Seed	Shweta_Saline
+S65	x	x	S65	E3T1.Compost.TP1.R2	2	Compost	Seed	Shweta_Saline
+S66	x	x	S66	E3T1.Compost.TP1.R3	3	Compost	Seed	Shweta_Saline
+S67	x	x	S67	E3T2.SL.TP1.R1	1	SL	Seed	Shweta_Saline
+S68	x	x	S68	E3T2.SL.TP1.R2	2	SL	Seed	Shweta_Saline
+S69	x	x	S69	E3T2.SL.TP1.R3	3	SL	Seed	Shweta_Saline
+S70	x	x	S70	E3T3.SA.TP1.R1	1	SA	Seed	Shweta_Saline
+S71	x	x	S71	E3T3.SA.TP1.R2	2	SA	Seed	Shweta_Saline
+S72	x	x	S72	E3T3.SA.TP1.R3	3	SA	Seed	Shweta_Saline
+S73	x	x	S73	E3T4. SLSA.TP1.R1	1	SLSA	Seed	Shweta_Saline
+S74	x	x	S74	E3T4. SLSA.TP1.R2	2	SLSA	Seed	Shweta_Saline
+S75	x	x	S75	E3T4. SLSA.TP1.R3	3	SLSA	Seed	Shweta_Saline
+S76	x	x	S76	E3T5.COU.TP1.R1	1	Coumarin	Seed	Shweta_Saline
+S77	x	x	S77	E3T5.COU.TP1.R2	2	Coumarin	Seed	Shweta_Saline
+S78	x	x	S78	E3T5.COU.TP1.R3	3	Coumarin	Seed	Shweta_Saline
+S79	x	x	S79	E3T7.GYP.TP1.R1	1	Gypsum	Seed	Shweta_Saline
+S80	x	x	S80	E3T7.GYP.TP1.R2	2	Gypsum	Seed	Shweta_Saline
+S81	x	x	S81	E3T7.GYP.TP1.R3	3	Gypsum	Seed	Shweta_Saline
+S82	x	x	S82	E3T9.CN.TP1.R1	1	Control	Seed	Shweta_Saline
+S83	x	x	S83	E3T9.CN.TP1.R2	2	Control	Seed	Shweta_Saline
+S84	x	x	S84	E3T9.CN.TP1.R3	3	Control	Seed	Shweta_Saline
+S85	x	x	S85	E1T3ASAW8R1(0.5)	1	SA.Expt1	Soil	Shweta_Acidic
+S86	x	x	S86	E1T3ASAW8R2(0.5)	2	SA.Expt1	Soil	Shweta_Acidic
+S87	x	x	S87	E1T3ASAW8R3(0.5)	3	SA.Expt1	Soil	Shweta_Acidic
